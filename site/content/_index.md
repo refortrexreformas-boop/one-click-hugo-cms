@@ -3,8 +3,10 @@ title: "REFORTREX REFORMAS INTEGRALES"
 subtitle: Reformas Sin Estrés En Las Palmas De Gran Canaria
 image: site/static/img/hugo-sousa-BghGseQbAkA-unsplash.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: TE DAMOS LA BIENVENIDA
+    text: "Somos una empresa de reformas integrales que presta servicios en Las Palmas de Gran canaria,
+contamos con un equipo operativo y colaboradores locales en la isla.
+Nuestra misión es construir y renovar espacios con excelencia"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
