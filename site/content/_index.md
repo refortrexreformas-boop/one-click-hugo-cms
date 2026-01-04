@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "REFORTREX REFORMAS INTEGRALES"
+subtitle: Reformas Sin Estrés En Las Palmas De Gran Canaria
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
