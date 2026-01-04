@@ -7,6 +7,9 @@ blurb:
     text: "Somos una empresa de reformas integrales que presta servicios en Las Palmas de Gran canaria,
 contamos con un equipo operativo y colaboradores locales en la isla.
 Nuestra misión es construir y renovar espacios con excelencia"
+    button:
+      label:"PRESUPUESTO SIN COMPROMISO"
+      link: "/contacto"
 intro:
     heading: "CONÓCENOS"
     items:
