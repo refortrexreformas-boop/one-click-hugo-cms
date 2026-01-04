@@ -8,15 +8,12 @@ blurb:
 contamos con un equipo operativo y colaboradores locales en la isla.
 Nuestra misión es construir y renovar espacios con excelencia"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
+    heading: "CONÓCENOS"
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Cada proyecto lo tratamos como único. Escuchamos tus ideas, estudiamos tus necesidades y convertimos tu espacio en el lugar que siempre has querido. Nuestro equipo se encarga de todo para que tú solo disfrutes del resultado final. Tu reforma, sin complicaciones."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+      text: "Sabemos lo importante que es tu hogar, por eso trabajamos con planificación precisa y plazos claros. Cumplimos tiempos y comunicamos cada avance. Reforma ágil, limpia y sin dolores de cabeza."
+       - image: /img/illustrations-coffee-gear.svg
+      text: "Nuestros proyectos no solo mejoran tu día a día, sino también el valor de tu inmueble. Optimizamos espacios, modernizamos ambientes y mejoramos la eficiencia del hogar. Una inversión inteligente para el presente y el futuro."
 ---
 
