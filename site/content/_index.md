@@ -3,13 +3,14 @@ title: "REFORTREX REFORMAS INTEGRALES"
 subtitle: Reformas Sin Estrés En Las Palmas De Gran Canaria
 image: /img/hugo-sousa-BghGseQbAkA-unsplash.jpg
 blurb:
-    heading: TE DAMOS LA BIENVENIDA
+    heading: "TE DAMOS LA BIENVENIDA"
     text: "Somos una empresa de reformas integrales que presta servicios en Las Palmas de Gran canaria,
 contamos con un equipo operativo y colaboradores locales en la isla.
 Nuestra misión es construir y renovar espacios con excelencia"
     buttons:
       - label:"PRESUPUESTO SIN COMPROMISO"
         link: "/contacto"
+---
 intro:
     heading: "CONÓCENOS"
     items:
