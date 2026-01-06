@@ -2,16 +2,5 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
 {{ .Content }}
-<section class="features">
-  <div class="features-grid">
-    {{ range .Params.features }}
-      <div class="feature-item">
-        <img src="{{ .image }}" alt="{{ .title }}">
-        <h3>{{ .title }}</h3>
-        <p>{{ .text }}</p>
-      </div>
-    {{ end }}
-  </div>
-</section>
 
 {{ end }}
