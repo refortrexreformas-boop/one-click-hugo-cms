@@ -14,23 +14,11 @@ blurb:
       link: "/contacto"
 
 features:
-  heading: "CONÓCENOS"
   items:
-    - title: "Proyecto único"
-      image: "/img/gabriel-alenius-cPDTVCsbxcg-unsplash.jpg"
-      text: >
-        Cada proyecto lo tratamos como único. Escuchamos tus ideas, estudiamos tus necesidades
-        y convertimos tu espacio en el lugar que siempre has querido.
-
-    - title: "Planificación"
-      image: "/img/maciej-karon-DX5gkaCNRok-unsplash.jpg"
-      text: >
-        Trabajamos con planificación precisa y plazos claros. Cumplimos tiempos y comunicamos
-        cada avance para una reforma sin estrés.
-
-    - title: "Valor añadido"
-      image: "/img/meritt-thomas-PWA7RiUBBIo-unsplash.jpg"
-      text: >
-        Optimizamos espacios, modernizamos ambientes y mejoramos la eficiencia del hogar.
-        Una inversión inteligente para el presente y el futuro.
+    - image: "/img/gabriel-alenius-cPDTVCsbxcg-unsplash.jpg"
+      text: "Cada proyecto lo tratamos como único. Escuchamos tus ideas, estudiamos tus necesidades y convertimos tu espacio en el lugar que siempre has querido."
+    - image: "/img/maciej-karon-DX5gkaCNRok-unsplash.jpg"
+      text: "Trabajamos con planificación precisa y plazos claros. Cumplimos tiempos y comunicamos cada avance para una reforma sin estrés."
+    - image: "/img/meritt-thomas-PWA7RiUBBIo-unsplash.jpg"
+      text: "Optimizamos espacios, modernizamos ambientes y mejoramos la eficiencia del hogar. Una inversión inteligente para el presente y el futuro."
 ---
