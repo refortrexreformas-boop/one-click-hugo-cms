@@ -1,11 +1,19 @@
 <section class="features">
-  <div class="features-grid">
-    {{ range .features }}
-      <div class="feature-item">
-        <img src="{{ .image }}" alt="{{ .title }}">
-        <h3>{{ .title }}</h3>
-        <p>{{ .text }}</p>
-      </div>
+  <div class="container">
+
+    {{ with .features.heading }}
+      <h2 class="section-title">{{ . }}</h2>
     {{ end }}
+
+    <div class="features-grid">
+      {{ range .features.items }}
+        <div class="feature-item">
+          <img src="{{ .image }}" alt="{{ .title }}">
+          <h3>{{ .title }}</h3>
+          <p>{{ .text }}</p>
+        </div>
+      {{ end }}
+    </div>
+
   </div>
 </section>
